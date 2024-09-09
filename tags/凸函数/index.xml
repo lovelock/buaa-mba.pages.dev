@@ -12,7 +12,24 @@
         <pubDate>Sun, 08 Sep 2024 21:35:07 +0800</pubDate>
         
         <guid>https://buaa-mba.pages.dev/p/%E5%87%B8%E5%87%BD%E6%95%B0%E5%92%8C%E5%87%B9%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</guid>
-        <description>&lt;h2 id=&#34;引言&#34;&gt;引言
+        <description>&lt;blockquote&gt;
+&lt;p&gt;注意：关于凸函数和凹函数的定义国内外有争议，且定义完全相反，本文写的内容是国外通行的说法。国内以同济大学为代表的数学教材和本文描述的内容是相反的。&lt;/p&gt;
+&lt;p&gt;考证1：&lt;a class=&#34;link&#34; href=&#34;https://carmamaths.org/resources/jon/Preprints/Books/CUP/CUPold/np-convex.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CONVEX FUNCTIONS AND THEIR APPLICATIONS A contemporary approach&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;考证2：&lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/%E5%87%B9%E5%87%BD%E6%95%B0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;维基百科：凹函数&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;考证3: &lt;img src=&#34;https://buaa-mba.pages.dev/images/math/%e5%9b%bd%e5%86%85%e6%95%99%e6%9d%90%e5%87%b9%e5%87%b8%e5%87%bd%e6%95%b0.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;国内教材凹凸函数&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言
 &lt;/h2&gt;&lt;p&gt;在数学分析和最优化理论中,凸函数和凹函数是两个非常重要的概念。它们具有一些独特的性质,在许多领域都有广泛的应用,包括运筹学、经济学和机器学习等。本文将详细介绍凸函数和凹函数的定义、特性以及一些典型的例子,并探讨它们在实际问题中的应用。&lt;/p&gt;
 &lt;h2 id=&#34;定义&#34;&gt;定义
 &lt;/h2&gt;&lt;h3 id=&#34;凸函数&#34;&gt;凸函数
